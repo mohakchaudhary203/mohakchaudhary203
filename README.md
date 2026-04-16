@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohak
 
-<!--
-**mohakchaudhary203/mohakchaudhary203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring SOC Analyst | Cybersecurity Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Skills
+- Python
+- Networking Basics
+- Log Analysis
+- Threat Detection
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🔥 Mini SOC Platform
+- Correlates user behavior with IP threat intelligence  
+- Detects suspicious logins and malicious IPs  
+- Generates risk-based alerts  
+
+👉 https://github.com/mohakchaudhary203/mini-soc-platform
+
+---
+
+## 📈 Currently Learning
+- SOC Operations  
+- SIEM Tools  
+- Threat Intelligence  
+
+---
+
+## 📫 Contact
+- LinkedIn:(https://www.linkedin.com/in/mohakchaudhary203/)
