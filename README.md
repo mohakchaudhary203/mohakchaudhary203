@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohak
 
-🎯 Aspiring SOC Analyst | Cybersecurity Enthusiast
+🎯 SOC Analyst | Cybersecurity Analyst | Threat Detection & Monitoring
 
 ---
 
