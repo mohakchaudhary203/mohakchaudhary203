@@ -1,17 +1,42 @@
-# 👋 Hi, I'm Mohak
+# Mohak Chaudhary
 
-🎯 SOC Analyst | Cybersecurity Analyst | Threat Detection & Monitoring
+Cybersecurity Engineer
+Software Engineer
+Full Stack Developer
+
+Building secure software and modern applications under GhostHowl.
 
 ---
 
 ## 🛡️ Skills
 
+Languages
+
 * Python
 * Java
-* Networking Fundamentals
-* Threat Detection & Log Analysis
-* Git & GitHub
+* JavaScript
+* SQL
 
+Cybersecurity
+
+* Threat Detection
+* Log Analysis
+* Network Security
+
+Web
+
+* HTML
+* CSS
+* JavaScript
+* Flask
+
+Tools
+
+* Git
+* GitHub
+* Linux
+* Docker
+* AWS
 ---
 
 ## 🚀 Featured Project
