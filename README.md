@@ -8,7 +8,7 @@ Building secure software and modern applications under GhostHowl.
 
 ---
 
-## 🛡️ Skills
+## Skills
 
 Languages
 
@@ -39,32 +39,32 @@ Tools
 * AWS
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🔥 Cyber SentinelX – Adaptive Threat Monitoring Platform
+### Cyber SentinelX – Adaptive Threat Monitoring Platform
 
 * Multi-language SOC system (Python + Java + Flask)
 * Secure authentication system with SHA-256 hashing
 * Real-time threat detection and alert generation
 * Live monitoring dashboard with event correlation
 
-👉 https://github.com/mohakchaudhary203/cyber-sentinelx
+ https://github.com/mohakchaudhary203/cyber-sentinelx
 
 ---
 
-## 🧩 Other Projects
+## Other Projects
 
-### 🔹 Mini SOC Platform
+### Mini SOC Platform
 
 * Correlates user behavior with IP threat intelligence
 * Detects suspicious logins and malicious IPs
 * Generates risk-based alerts
 
-👉 https://github.com/mohakchaudhary203/mini-soc-platform
+ https://github.com/mohakchaudhary203/mini-soc-platform
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 * SOC Operations
 * SIEM Tools (Splunk / ELK)
@@ -72,6 +72,6 @@ Tools
 
 ---
 
-## 📫 Contact
+## Contact
 
 * LinkedIn: https://www.linkedin.com/in/mohakchaudhary203/
